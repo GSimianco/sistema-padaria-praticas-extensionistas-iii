@@ -43,7 +43,7 @@ Desenvolver a modelagem de um sistema para padaria que permita organizar os proc
 4. Copiar a pasta `sistema` para `htdocs`.
 5. Acessar:
 
-http://localhost/sistema
+http://localhost/sistema-padaria
 
 ## Credenciais padrão
 
