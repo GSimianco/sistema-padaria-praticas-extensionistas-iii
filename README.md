@@ -15,3 +15,37 @@ Muitas padarias realizam seus controles de forma manual, o que pode gerar erros 
 
 Desenvolver a modelagem de um sistema para padaria que permita organizar os processos de venda, atendimento, controle de produtos, estoque e pagamentos.
 
+## Tecnologias Utilizadas
+
+- PHP 8
+- MariaDB
+- HTML5
+- CSS3
+- XAMPP
+- phpMyAdmin
+
+## Funcionalidades
+
+- Login de usuários
+- Dashboard administrativo
+- Cadastro de produtos
+- Edição de produtos
+- Exclusão de produtos
+- Consulta e pesquisa de produtos
+- Formulário de contato
+- Controle de estoque
+
+## Como executar o projeto
+
+1. Instalar o XAMPP.
+2. Iniciar Apache e MySQL.
+3. Importar o arquivo `padaria_db.sql`.
+4. Copiar a pasta `sistema` para `htdocs`.
+5. Acessar:
+
+http://localhost/sistema
+
+## Credenciais padrão
+
+Usuário: admin
+Senha: 123456
